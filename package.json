@@ -1,0 +1,20 @@
+{
+  "name": "testing-workflows",
+  "version": "1.0.0",
+  "description": "This is the Read Me file supposed to be in feature branch but now in the main branch!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackdragoon26/Testing-Workflows.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackdragoon26/Testing-Workflows/issues"
+  },
+  "homepage": "https://github.com/blackdragoon26/Testing-Workflows#readme"
+}
